@@ -1,1 +1,1 @@
-# House_Price_Prediction_and_Analysis
+# I have created a house price prediction project utilizing machine learning (Linear Regression, Random Forest), Pandas for data preprocessing, and SHAP values for model interpretability, offering insights and recommendations for real estate decisions.
